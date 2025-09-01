@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm 21 years old and currently making my way from the construction site into the world of tech.  <br>Right now I'm learning the fundamentals of **web development** (HTML, CSS, JavaScript, Python) and  <br>building my first real projects.  <br><br>💡 My goal is to grow step by step into **software development & cybersecurity**  <br>and one day launch my own **startup** with fresh ideas that make a difference.  <br><br>Always curious, always learning – this is just the beginning 🚀</p>
+<p align="left">I'm 22 years old and currently making my way from the construction site into the world of tech.  <br>Right now I'm learning the fundamentals of **web development** (HTML, CSS, JavaScript, Python) and  <br>building my first real projects.  <br><br>💡 My goal is to grow step by step into **software development & cybersecurity**  <br>and one day launch my own **startup** with fresh ideas that make a difference.  <br><br>Always curious, always learning – this is just the beginning 🚀</p>
 
 ###
 
